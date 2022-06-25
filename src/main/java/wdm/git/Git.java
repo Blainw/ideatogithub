@@ -6,5 +6,6 @@ public class Git {
         System.out.println("再来测试一下变换");
         System.out.println("master 测试");
         System.out.println("hot-fix test");
+        System.out.println("你们快pull一下把");
     }
 }
