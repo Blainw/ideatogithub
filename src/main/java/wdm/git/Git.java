@@ -7,5 +7,6 @@ public class Git {
         System.out.println("master 测试");
         System.out.println("hot-fix test");
         System.out.println("你们快pull一下把");
+        System.out.println("我又push了 ！！！！");
     }
 }
